@@ -35,7 +35,7 @@ Concepts:
 
 ### Electric Field Simulation
 
-![Electric Field](Electric Field of a Dipole.png)
+![Electric Field](Electric_Field_of_a_Dipole.png)
 
 ### Quantum Harmonic Oscillator
 
