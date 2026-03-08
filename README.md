@@ -31,6 +31,16 @@ Concepts:
 - Numerical methods
 - Linear algebra
 
+## Example Output
+
+### Electric Field Simulation
+
+![Electric Field](electric_field_plot.png)
+
+### Quantum Harmonic Oscillator
+
+![Wavefunction](qho_wavefunction.png)
+
 ## Tools Used
 - Python
 - NumPy
