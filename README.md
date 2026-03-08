@@ -35,11 +35,11 @@ Concepts:
 
 ### Electric Field Simulation
 
-![Electric Field](electric_field_plot.png)
+![Electric Field](Electric Field of a Dipole.png)
 
 ### Quantum Harmonic Oscillator
 
-![Wavefunction](qho_wavefunction.png)
+![Wavefunction](wavefunction.png)
 
 ## Tools Used
 - Python
