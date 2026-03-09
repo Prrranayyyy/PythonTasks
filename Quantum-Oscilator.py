@@ -46,3 +46,4 @@ plt.xlabel("x")
 plt.ylabel("|ψ|^2")
 plt.show()
 plt.savefig("wavefunction.png")
+
